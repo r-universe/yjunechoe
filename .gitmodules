@@ -17,6 +17,9 @@
 [submodule "jlmerclusterperm"]
 	path = jlmerclusterperm
 	url = https://github.com/yjunechoe/jlmerclusterperm
+[submodule "openalexR"]
+	path = openalexR
+	url = https://github.com/ropensci/openalexR
 [submodule "pointblank"]
 	path = pointblank
 	url = https://github.com/rstudio/pointblank
