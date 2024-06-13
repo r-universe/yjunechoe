@@ -2,12 +2,21 @@
 	path = .registry
 	url = https://github.com/yjunechoe/yjunechoe.r-universe.dev
 	branch = HEAD
+[submodule "JuliaFormulae"]
+	path = JuliaFormulae
+	url = https://github.com/yjunechoe/JuliaFormulae
 [submodule "ggcolormeter"]
 	path = ggcolormeter
 	url = https://github.com/yjunechoe/ggcolormeter
 [submodule "ggtrace"]
 	path = ggtrace
 	url = https://github.com/yjunechoe/ggtrace
+[submodule "jlme"]
+	path = jlme
+	url = https://github.com/yjunechoe/jlme
 [submodule "jlmerclusterperm"]
 	path = jlmerclusterperm
 	url = https://github.com/yjunechoe/jlmerclusterperm
+[submodule "pointblank"]
+	path = pointblank
+	url = https://github.com/rstudio/pointblank
